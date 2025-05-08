@@ -3,9 +3,9 @@ The script is for Chainopera AI.Bot will send message to ai bot and complete che
 
 Proxy format is http://username:password@ip:port
 
-First register and link social accounts here https://chainopera.ai/quest/?inviteCode=J12AL2S9
+First register and link social accounts here https://chainopera.ai/quest/?inviteCode=TNFLA6WL
 
-You can use my invitation code J12AL2S9 for bonus points.
+You can use my invitation code TNFLA6WL for bonus points.
 
 Then signin with same wallet at https://chat.chainopera.ai/
 
